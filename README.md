@@ -59,7 +59,7 @@ Below is a comparative breakdown of the top commercial SaaS solutions for legal 
 
 Explore vetted open-source software, legal automation libraries, smart contract engines, and AI workflow plugins, **sorted in descending order by GitHub stargazers count**.
 
-| 📦 Repository & Project | ⭐ GitHub Stars | 💻 Tech Stack & License | 📝 Overview & Core Features |
+| 📦 Repository & Project | ⭐ GitHub_Stars | 💻 Tech Stack & License | 📝 Overview & Core Features |
 | :--- | :--- | :--- | :--- |
 | **[anthropics/claude-for-legal](https://github.com/anthropics/claude-for-legal)** | [![Stars](https://img.shields.io/github/stars/anthropics/claude-for-legal?style=social&color=white)](https://github.com/anthropics/claude-for-legal/stargazers) | Python / TypeScript • Apache-2.0 | Advanced suite of specialized AI plugins and agent workflows designed for corporate legal operations, contract auditing, compliance checking, and document diligence. |
 | **[open-legal-products/mike](https://github.com/open-legal-products/mike)** | [![Stars](https://img.shields.io/github/stars/open-legal-products/mike?style=social&color=white)](https://github.com/open-legal-products/mike/stargazers) | TypeScript / Python • AGPL-3.0 | Modern open-source legal AI platform engineered for contract drafting, case analysis, semantic clause search, and automated legal document synthesis. |
