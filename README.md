@@ -4,11 +4,13 @@
 
 # ⚖️ Awesome Legal Operations & Practice Management
 
-[![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
+<a href="https://github.com/ishandutta2007/Awesome-Awesome-Awesome"><img src="https://img.shields.io/badge/Awesome-%E2%9C%94-blueviolet?style=flat-square&logo=github" alt="Awesome"/></a><a href="https://discord.gg/jc4xtF58Ve"><img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white" alt="Discord" /></a>
+[![Awesome](https://awesome.re/badge.svg)](https://github.com/ishandutta2007/Awesome-Awesome-Awesome)
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
 [![PRs Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg)](https://github.com/ishandutta2007/Awesome-Legal-Operations-Practice-Management/pulls)
 [![Maintenance](https://img.shields.io/badge/Maintained%3F-yes-green.svg)](https://github.com/ishandutta2007/Awesome-Legal-Operations-Practice-Management/graphs/commit-activity)
 [![Stars](https://img.shields.io/github/stars/ishandutta2007/Awesome-Legal-Operations-Practice-Management?style=social)](https://github.com/ishandutta2007/Awesome-Legal-Operations-Practice-Management/stargazers)
+<a href="https://github.com/ishandutta2007"><img alt="GitHub followers" src="https://img.shields.io/github/followers/ishandutta2007?label=Follow" /></a>
 
 > 🌟 A curated index of premier **Legal Practice Management Software (LPMS)**, **Enterprise Legal Management (ELM)**, **Contract Lifecycle Management (CLM)** SaaS platforms, and top **open-source legal solutions** for law firms, legal operations teams, corporate legal departments, and solo practitioners.
 
@@ -19,6 +21,8 @@
 - [🏢 SaaS & Hosted Commercial Platforms](#-saas--hosted-commercial-platforms)
 - [🔓 Open-Source Software & Repositories](#-open-source-software--repositories)
 - [🔍 Key Evaluation Criteria for Legal Operations](#-key-evaluation-criteria-for-legal-operations)
+- [💖 Support & Sponsorship](#-support--sponsorship)
+- [📈 Star History](#-star-history)
 - [🤝 Contributing](#-contributing)
 - [📄 License](#-license)
 
@@ -83,6 +87,25 @@ When selecting legal software or self-hosting open-source LPMS solutions, consid
 3. ⚡ **Automation & Time Capture**: Passive/active background billable hour tracking, automated LEDES 1998B invoicing, and e-billing validations.
 4. 🤖 **AI Governance & Redlining**: Human-in-the-loop review, deterministic audit trails, and hallucination safeguards for contract reviews.
 5. 🔗 **Extensibility & API Integrations**: Open REST/GraphQL APIs, native MCP connectors, and integrations with document storage (OneDrive, Google Drive, NetDocuments).
+
+---
+
+## 💖 Support & Sponsorship
+
+Thank you so much for taking the time to explore this curated index! If you found this repository helpful, please consider supporting the project:
+
+- ⭐ **Star this repository** to help others discover it.
+- 🍴 **Fork it** and add your own customized legal operations toolchains.
+- 📢 **Share it** on LinkedIn, X/Twitter, or with your legal engineering and legal ops peers.
+- ☕ **Buy me a coffee / Sponsor**: If this project saved you time or aided your research, consider supporting ongoing maintenance on GitHub Sponsors:
+  
+  [![Sponsor on GitHub](https://img.shields.io/badge/Sponsor-%E2%99%A5-pink?style=for-the-badge&logo=github)](https://github.com/sponsors/ishandutta2007)
+
+---
+
+## 📈 Star History
+
+[![Star History Chart](https://www.star-history.com/svg?repos=ishandutta2007/Awesome-Legal-Operations-Practice-Management&type=date&legend=top-left)](https://www.star-history.com/#ishandutta2007/Awesome-Legal-Operations-Practice-Management&type=date&legend=top-left)
 
 ---
 
